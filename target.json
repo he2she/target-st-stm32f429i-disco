@@ -2,7 +2,7 @@
   "name": "stm32f429i-disco-gcc",
   "version": "0.0.20",
   "inherits": {
-    "mbed-gcc": "*"
+    "mbed-gcc": "ARMmbed/target-mbed-gcc#v1.2.2"
   },
   "description": "Official mbed build target for the mbed stm32f429i-disco development board.",
   "licenses": [
