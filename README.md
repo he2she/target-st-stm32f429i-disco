@@ -16,3 +16,7 @@ index 1b34c53..282650d 100644
    "description": "Official mbed build target for the mbed stm32f429i-disco development board.",
    "licenses": [
 ```
+## How to target
+```
+yotta target stm32f429i-disco-gcc@https://github.com/he2she/target-st-stm32f429i-disco
+```
